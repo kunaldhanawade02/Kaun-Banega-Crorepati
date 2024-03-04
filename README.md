@@ -15,7 +15,7 @@ To run the game, simply execute the Python script in your terminal or IDE. Follo
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your_username/kbc-python.git
+git clone https://github.com/kunaldhanawade02/KaunBanegaCrorepati.git
 ```
 ## Dependencies
 
